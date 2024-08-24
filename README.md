@@ -6,11 +6,12 @@ Pivot Table at the Top:
 
 Number of cars by Brand.It covers multiple brands and is a data of 7,907 cars.Maruti leads with 2,369 cars while Ashok has only one car.
 
-Figure 1 Brand vs Average Selling Price (Top Left)
+Graph 1 Brand vs Average Selling Price (Top Left)
 
 A bar chart that displays the average purchase selling price for each brandBrands like Maruti, Mercedes-Benz and Audi have a high average selling price. The chart lets to compare price range among different brands
 
-Chart 2: Brand, Fuel vs Total Kms Driven ShortlyTotal kilometers driven (brand and fuel type) pie chartSegmented as a combination of the brand and fuel type (eg BMW Diesel, Audi Petrol) This is how people use cars, clearly breaking down the usage for different brands and types of fuel.
+Graph 2: Brand, Fuel vs Total Kms Driven ShortlyTotal kilometers driven (brand and fuel type) (Top Right)
+pie chartSegmented as a combination of the brand and fuel type (eg BMW Diesel, Audi Petrol) This is how people use cars, clearly breaking down the usage for different brands and types of fuel.
 
 Graph 3: Brand, Engine vs. Selling Price (Bottom)
 
